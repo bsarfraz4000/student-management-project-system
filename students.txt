@@ -1,0 +1,3 @@
+Ali Raza,26SW-001,Muhammad Raza,Soomro,Khairpur,3.50
+Sara Khan,26SW-002,Imran Khan,Pathan,Sukkur,3.85
+Ahmed Ali,26SW-003,Ghulam Ali,Mirani,Khairpur,3.10
